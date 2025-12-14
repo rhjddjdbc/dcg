@@ -116,7 +116,7 @@ The script is now ready to use:
 | ----------- | --------------------------------------------------------------- |
 | WebDev      | Node, Python, Editors, Network, Database                        |
 | Embedded    | C, Rust, Editors, Network, Debugging/RE                         |
-| DataScience | Python, Editors, Database, git                                  |
+| DataScience | Python, Editors, Database                                       |
 | RE          | Debugging/RE, C, Editors, Network                               |
 | FullStack   | Node, Python, Editors, Database, Network, C, Rust, Debugging/RE |
 
